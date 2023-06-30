@@ -2,7 +2,7 @@
 
 <img width="1440" alt="SS" src="https://github.com/AK0561/AmazonClone/assets/97022114/510033d3-1f6e-468d-9795-995d30eb4d8b">
 
-This repository contains the source code for an Amazon clone website built using HTML and CSS. The goal of this project is to create a replica of the Amazon e-commerce website, showcasing the design and layout techniques used to create a visually appealing and responsive online shopping platform.
+This repository contains the source code for an Amazon clone website UI design built using HTML and CSS. The project aims to recreate the visual elements and layout of the Amazon e-commerce platform, showcasing the design techniques used to create an intuitive and visually appealing user interface.
 
 ## Features
 
