@@ -2,7 +2,6 @@
 
 <img width="1440" alt="SS" src="https://github.com/AK0561/AmazonClone/assets/97022114/510033d3-1f6e-468d-9795-995d30eb4d8b">
 
-
 This repository contains the source code for an Amazon clone website built using HTML and CSS. The goal of this project is to create a replica of the Amazon e-commerce website, showcasing the design and layout techniques used to create a visually appealing and responsive online shopping platform.
 
 ## Features
@@ -16,6 +15,26 @@ This repository contains the source code for an Amazon clone website built using
 - **Search Functionality**: Users can search for products using keywords, and the website provides relevant search results.
 
 - **Responsive Design**: The website is designed to be responsive, providing an optimal viewing experience across different devices and screen sizes.
+
+## Getting Started
+
+To run the Amazon clone website locally on your machine, follow these steps:
+
+1. Clone the repository to your local machine using the following command:
+
+   ```shell
+   git clone https://github.com/AK0561/AmazonClone.git
+   ```
+
+2. Navigate to the project directory:
+
+   ```shell
+   cd AmazonClone
+   ```
+
+3. Open the `project.html` file in your preferred web browser.
+
+4. Explore the website and interact with its features.
 
 ## Contributing
 
